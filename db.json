@@ -1,0 +1,14 @@
+{
+  "users": [
+    {
+      "firstName": "Elena",
+      "lastName": "Rotari",
+      "email": "elena.rotari@icloud.com",
+      "password": "qwertz",
+      "repeatPassword": "qwertz",
+      "passwordCheck": true,
+      "id": 1
+    }
+  ],
+  "messages": []
+}
